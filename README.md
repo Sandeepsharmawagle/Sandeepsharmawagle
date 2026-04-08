@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   <img src="My Pic.jpeg" alt="Sandeep Sharma" width="200" style="border-radius: 50%;" />
   
@@ -169,4 +169,4 @@ Whether you want to discuss tech, have a project idea, or just want to say hi ‚Ä
   
   **Thanks for visiting! ‚≠ê Star my repos if you find them useful!**
   
-</div>
+</div> -->
